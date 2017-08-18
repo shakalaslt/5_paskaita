@@ -10,7 +10,7 @@ body{
 }
 .spacing {
 	padding: 20px;
-	padding-bottom: 400px;
+	
 }
 .mygtukai{
 	            border: 5px solid yellow;
@@ -18,11 +18,13 @@ body{
 			 	
 			 	color: black;
 			 	
-			 	width: 100px;
-			 	margin:20px;
+			 	width: 20px;
+			 	margin: 10px;
 			 	text-align: center;
+			 	align-items: center;
+		 	    
 			 
-			 	font-size: 40px;
+			 	font-size: 20px;
 			 	
 }
 #vienas{
@@ -32,41 +34,41 @@ body{
 	background-color: #4EB72F;
 }
 #trys{
-	background-color:
+	background-color: #469D5F;
 }
 #keturi{
-	background-color:
+	background-color: #41A4A4;
 }
 #penki{
-	background-color:
+	background-color: #0E5A73;
 }
 #sesi{
-	background-color:
+	background-color: #88CFE7;
 }
 #septyni{
-	background-color:
+	background-color: #838F93;
 }
 #astuoni{
-	background-color:
+	background-color: #1B518A;
 }
 #devyni{
-	background-color:
+	background-color: #D9E8F7;
 }
 #desimt{
-	background-color:
+	background-color: #7946B3;
 }
 #vienuolika{
-	background-color:
+	background-color: #E6DAF5;
 }
 #dvylika{
-	background-color:
+	background-color: #5F4F73;
 }
 #trylika{
-	background-color:
+	background-color: #D663E3;
 }
 #keturiolika{
-	background-color:
+	background-color: #903867;
 }
 #penkiolika{
-	background-color:
+	background-color: #F5D0E4;
 }
